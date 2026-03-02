@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="aereth.vcxproj" Id="be9036d7-bf69-455c-af91-54e4a44f115c" />
+</Solution>
